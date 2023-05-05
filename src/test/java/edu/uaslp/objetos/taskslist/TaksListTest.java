@@ -4,6 +4,7 @@ package edu.uaslp.objetos.taskslist;
 import static org.assertj.core.api.Assertions.assertThat;
 import static org.assertj.core.api.Assertions.assertThatThrownBy;
 
+import edu.uaslp.objetos.exceptions.*;
 import java.time.LocalDateTime;
 import java.util.List;
 
